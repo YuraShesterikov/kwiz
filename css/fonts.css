@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "FuturaPT";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/FuturaPT-Light.woff2") format("woff2"),
+  url("../fonts/FuturaPT-Light.woff") format("woff"),
+  url("../fonts/FuturaPT-Light-1.eot") format("eot");
+}
+@font-face {
+  font-family: "FuturaPT";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/FuturaPT-Demi.woff2") format("woff2"),
+  url("../fonts/FuturaPT-Demi.woff") format("woff"),
+  url("../fonts/FuturaPT-Demi.eot") format("eot");
+}
+@font-face {
+  font-family: "FuturaPT";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/FuturaPT-ExtraBold.woff2") format("woff2"),
+  url("../fonts/FuturaPT-ExtraBold.woff") format("woff"),
+  url("../fonts/FuturaPT-ExtraBold.eot") format("eot");
+}
+@font-face {
+  font-family: "FuturaPT";
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/FuturaPT-Heavy.woff2") format("woff2"),
+  url("../fonts/FuturaPT-Heavy.woff") format("woff"),
+  url("../fonts/FuturaPT-Heavy.eot") format("eot");
+}
